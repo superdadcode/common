@@ -1,2 +1,2 @@
 # Common Repostiory
-Yes! I did it
+Yes, Finally I did it! This is superdadcode first repository.
