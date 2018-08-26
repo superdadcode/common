@@ -1,3 +1,3 @@
-# Config
-Yes, Finally I did it ! 
-This is superdadcode first repository.
+# config
+This is only for development-phase purpose !
+Please do not clone or download !
